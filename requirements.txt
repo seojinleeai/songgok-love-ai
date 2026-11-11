@@ -1,0 +1,5 @@
+streamlit>=1.25.0
+orange3>=3.35.0
+scikit-learn
+pandas
+numpy
